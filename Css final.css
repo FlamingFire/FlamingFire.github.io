@@ -1,0 +1,56 @@
+body{
+	background-image:url("http://www.texturex.com/albums/Metal-Textures/TextureX%20steel%20texture%20shiney%20piece%20metal%20silver%20camo%20pattern%20Texture.jpg")
+}
+div.desc{
+	margin-left: 10%;
+	width: 80%;
+	height: 100%;
+	background-color: white;
+	margin-right: 10%;
+	margin-top: 5%;
+	border-radius: 25px;
+	text-align: left;
+}
+h1.Disclaimer{
+	font-family:Impact;
+	font-size: 36px;
+}
+h1.AboutPage
+	color:black;
+	font-size: 16px;
+	font-family: Times New Roman;
+}
+h1.gun{
+	font-size: 15px;
+	font-family: Oswald;
+}
+ul.Ezy{
+	list-style-type: none;
+}  
+li.0{
+	word-wrap: break-word; 
+}
+ul.navbar{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: Grey;
+	margin-right: 10%;
+	margin-left: 10%;
+	border-radius: 25px;
+}
+li.nav{
+	float: left;
+}
+li a{
+	display: block;
+	color:White;
+	text-align: center;
+	text-decoration: none;
+	padding: 10px;
+}
+img{
+	display: inline-block;
+}
+	
